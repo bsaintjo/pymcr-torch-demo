@@ -1,6 +1,6 @@
 import itertools
 from typing import Optional, Any
-from pymcr import LinearRegression
+from pymcr.regressors import LinearRegression
 import numpy as np
 from numpy.typing import NDArray
 import torch
